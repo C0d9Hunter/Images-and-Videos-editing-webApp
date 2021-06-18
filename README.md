@@ -1,6 +1,9 @@
 # Images-and-Videos-editing-webApp
 
-![webApp logo](images/logo3.jpeg?raw=True "Image editor")
+<!-- ![webApp logo](images/logo3.jpeg?raw=True "Image editor") -->
+<p align=center>
+  <img src="Image editing finale.gif?raw=True"/>
+</p>
 <br>
 ## Presentation
 ***
